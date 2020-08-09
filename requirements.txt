@@ -3,5 +3,4 @@ pandas
 streamlit==0.61.0
 ppscore
 scikit-learn
-re
 nltk
