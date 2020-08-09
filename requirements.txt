@@ -1,6 +1,5 @@
-numpy
-pandas
-streamlit
-ppscore
+numpy==1.15.0
+pandas==0.23.4
+streamlit==0.60.0
 scikit-learn
 nltk
