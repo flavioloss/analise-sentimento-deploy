@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tweets_st_deploy.py
+worker: sh setup.sh && streamlit run tweets_st_deploy.py
